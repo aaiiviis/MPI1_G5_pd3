@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Repository G-5</string>
+    <string name="save">Save</string>
+    <string name="read">Read</string>
+    <string name="a1">Activity 1</string>
+    <string name="a2">Activity 2</string>
+    <string name="text">(text)</string>
+    <string name="back">Back</string>
+    <string name="goTo2nd">Go to 2-nd</string>
+  
+
+    <array name="themes">
+        <item>Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+    </array>
+
+</resources>
